@@ -1,0 +1,11 @@
+[
+  {
+    "Item1": {
+      "CenterX": 1,
+      "CenterY": 1,
+      "radius": 4,
+      "Color": 1
+    },
+    "Item2": "Circle"
+  }
+]
